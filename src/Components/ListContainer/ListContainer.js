@@ -9,42 +9,42 @@ const value = [
     {
         _id:2566,
         name: "Mobile",
-        date: new Date().getDay(),
+        date: new Date().toLocaleString(),
         price: "250"
     },
 
     {
         _id:2567,
         name: "HeadPhone",
-        date: new Date().getDay(),
+        date: new Date().toLocaleString(),
         price: "20"
     },
 
     {
         _id:2568,
         name: "Food",
-        date: new Date().getDay(),
+        date: new Date().toLocaleString(),
         price: "5"
     },
 
     {
         _id:2569,
         name: "Shirt",
-        date: new Date().getDay(),
+        date: new Date().toLocaleString(),
         price: "10"
     },
 
     {
         _id:2570,
         name: "Mobile Cover",
-        date: new Date().getDay(),
+        date: new Date().toLocaleString(),
         price: "3"
     },
 
     {
         _id:2571,
         name: "Sim Card",
-        date: new Date().getDay(),
+        date: new Date().toLocaleString(),
         price: "4"
     }
 
