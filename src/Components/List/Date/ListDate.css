@@ -1,0 +1,7 @@
+.date{
+    display: flex;
+    flex-direction: column;
+    background-color: antiquewhite;
+    padding: 15px;
+    align-items: center;
+}

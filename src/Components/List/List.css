@@ -1,0 +1,7 @@
+.lists{
+    background-color: rgb(216, 126, 126);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
